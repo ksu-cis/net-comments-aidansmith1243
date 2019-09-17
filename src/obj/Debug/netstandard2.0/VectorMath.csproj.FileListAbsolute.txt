@@ -1,0 +1,10 @@
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\bin\Debug\netstandard2.0\VectorMath.deps.json
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\bin\Debug\netstandard2.0\VectorMath.dll
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\bin\Debug\netstandard2.0\VectorMath.pdb
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\bin\Debug\netstandard2.0\VectorMath.xml
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\obj\Debug\netstandard2.0\VectorMath.csprojAssemblyReference.cache
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\obj\Debug\netstandard2.0\VectorMath.csproj.CoreCompileInputs.cache
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\obj\Debug\netstandard2.0\VectorMath.AssemblyInfoInputs.cache
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\obj\Debug\netstandard2.0\VectorMath.AssemblyInfo.cs
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\obj\Debug\netstandard2.0\VectorMath.dll
+C:\Users\aidansmith1243\Desktop\net-comments-aidansmith1243-master\net-comments-aidansmith1243-master\src\obj\Debug\netstandard2.0\VectorMath.pdb
